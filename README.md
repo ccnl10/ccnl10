@@ -1,5 +1,12 @@
 ## Hola 2 DAM 👋
 
+- 👋 HOLA, Soy @ccnl10
+- 👀 Me interesa desarrollar apps en Kotlin y Android
+- 🌱 Actualmente doy clases de Desarrollo de Interfaces
+- 💞️ Busco colaborar en esta asignatura
+- 📫 Puedes contactarme por correo electrónico.
+- ⚡ Dato curioso: Imparto clases en el instituto Virrey Morcicllo de Villarrobledo
+
 <!--
 **ccnl10/ccnl10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
