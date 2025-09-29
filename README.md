@@ -1,6 +1,4 @@
-# Hola 2 DAM 👋
 ## Hola 2 DAM 👋
-### Hola 2 DAM 👋
 
 - 👋 HOLA, Soy @ccnl10
 - 👀 Me interesa desarrollar apps en Kotlin y Android
@@ -8,6 +6,8 @@
 - 💞️ Busco colaborar en esta asignatura
 - 📫 Puedes contactarme por correo electrónico.
 - ⚡ Dato curioso: Imparto clases en el instituto Virrey Morcicllo de Villarrobledo
+
+ ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg) 
 
 <!--
 **ccnl10/ccnl10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
