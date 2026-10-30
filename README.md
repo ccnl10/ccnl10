@@ -35,23 +35,46 @@ object Cristian {
 }
 ```
 
-## 📌 Proyecto destacado
+## 📌 Mis proyectos
 
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🟣 [EjerciciosKotlin](https://github.com/ccnl10/EjerciciosKotlin)
+### 🟣 EjerciciosKotlin
 
-Aplicación de consola con los ejercicios resueltos de la **UT1 · Fundamentos de Kotlin**: variables, condicionales, funciones, lambdas, colecciones, clases, herencia e interfaces.
+Los ejercicios resueltos de la **UT1 · Fundamentos de Kotlin** en una aplicación de consola: variables, condicionales, funciones, lambdas, colecciones, clases, herencia e interfaces.
 
 - 5 bloques y 42 ejercicios con menús y ayuda
 - El ejemplo del zoo de Java, en Kotlin
-- 📘 Manual de usuario · 🛠️ Manual técnico
-- 🔎 [API publicada en GitHub Pages](https://ccnl10.github.io/EjerciciosKotlin/api/)
+- Manual de usuario, manual técnico y API
+
+<p>
+  <a href="https://ccnl10.github.io/EjerciciosKotlin/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Web-7F52FF?style=for-the-badge" alt="Web de EjerciciosKotlin"></a>
+  <a href="https://ccnl10.github.io/EjerciciosKotlin/api/"><img src="https://img.shields.io/badge/%F0%9F%94%8E_API-C3410F?style=for-the-badge" alt="API de EjerciciosKotlin"></a>
+  <a href="https://github.com/ccnl10/EjerciciosKotlin"><img src="https://img.shields.io/badge/C%C3%B3digo-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Código de EjerciciosKotlin en GitHub"></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
+
+### ⚔️ JuegoRol
+
+Un **juego de rol por turnos** en consola: tres héroes contra tres enemigos, con armas, bolas de fuego, curaciones, pociones… y un dragón. Toda la programación orientada a objetos en un solo proyecto.
+
+- Clases abstractas, interfaces, `enum`, `data class` y `object`
+- Proyecto con Gradle
+- Manual de usuario, manual técnico y API
+
+<p>
+  <a href="https://ccnl10.github.io/JuegoRol/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Web-7F52FF?style=for-the-badge" alt="Web de JuegoRol"></a>
+  <a href="https://ccnl10.github.io/JuegoRol/api/"><img src="https://img.shields.io/badge/%F0%9F%94%8E_API-C3410F?style=for-the-badge" alt="API de JuegoRol"></a>
+  <a href="https://github.com/ccnl10/JuegoRol"><img src="https://img.shields.io/badge/C%C3%B3digo-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Código de JuegoRol en GitHub"></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ### 🗺️ Lo que viene
 
@@ -61,10 +84,6 @@ Aplicación de consola con los ejercicios resueltos de la **UT1 · Fundamentos d
 - [ ] Usabilidad y accesibilidad
 - [ ] Pruebas de interfaces
 - [ ] Empaquetado y distribución
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tecnologías con las que trabajo
 
@@ -95,6 +114,7 @@ Aplicación de consola con los ejercicios resueltos de la **UT1 · Fundamentos d
 
 | Si quieres… | Mira… |
 |---|---|
+| Ver de qué va un proyecto | Su **web**: [EjerciciosKotlin](https://ccnl10.github.io/EjerciciosKotlin/) · [JuegoRol](https://ccnl10.github.io/JuegoRol/) |
 | Repasar un ejercicio resuelto | El código de cada bloque, con comentarios que explican el porqué |
 | Saber qué hace una función o clase | La **API** del proyecto, con buscador |
 | Entender cómo está organizado un proyecto | El **manual técnico** |
