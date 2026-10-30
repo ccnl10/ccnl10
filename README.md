@@ -20,7 +20,7 @@
 
 ## 🧑‍🏫 Sobre mí
 
-Soy profesor de **Formación Profesional de Informática** en el **IES Virrey Morcillo** (Villarrobledo). Imparto el módulo **Desarrollo de Interfaces** en 2º de **DAM** (Desarrollo de Aplicaciones Multiplataforma) y también doy clase en **FP Básica**.
+Soy profesor de **Formación Profesional de Informática** en el **IES Virrey Morcillo** (Villarrobledo). Imparto el módulo **Desarrollo de Interfaces** en 2º de **DAM** (Desarrollo de Aplicaciones Multiplataforma).
 
 En este GitHub publico el material que preparo para mis alumnos: ejercicios resueltos, ejemplos comentados y proyectos documentados como se haría en una empresa, con manuales, API y control de versiones.
 
