@@ -37,12 +37,6 @@ object Cristian {
 
 ## 📌 Proyecto destacado
 
-<p align="center">
-  <a href="https://github.com/ccnl10/EjerciciosKotlin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccnl10&repo=EjerciciosKotlin&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=6e7681" alt="Repositorio EjerciciosKotlin">
-  </a>
-</p>
-
 <table align="center">
 <tr>
 <td width="50%" valign="top">
@@ -89,11 +83,6 @@ Aplicación de consola con los ejercicios resueltos de la **UT1 · Fundamentos d
 </p>
 
 ## 📊 Actividad en GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ccnl10&show_icons=true&locale=es&theme=transparent&hide_border=true&title_color=7F52FF&icon_color=7F52FF&text_color=6e7681" alt="Estadísticas de GitHub de ccnl10">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccnl10&layout=compact&locale=es&theme=transparent&hide_border=true&title_color=7F52FF&text_color=6e7681" alt="Lenguajes más usados por ccnl10">
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ccnl10&locale=es&theme=transparent&hide_border=true&ring=7F52FF&fire=7F52FF&currStreakLabel=7F52FF&sideLabels=6e7681&dates=6e7681&currStreakNum=6e7681&sideNums=6e7681" alt="Racha de contribuciones de ccnl10">
